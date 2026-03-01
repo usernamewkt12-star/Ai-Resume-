@@ -1,0 +1,35 @@
+<nav class="dropdown-nav">
+
+  <div class="dropdown">
+    <button class="dropbtn">Home</button>
+    <div class="dropdown-content">
+      <a href="index.html">Main Page</a>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn">Modules</button>
+    <div class="dropdown-content">
+      <a href="module-1.html">Module 1</a>
+      <a href="module-2.html">Module 2</a>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn">Notes</button>
+    <div class="dropdown-content">
+      <a href="notes.html">Operational Notes</a>
+    </div>
+  </div>
+
+  <div class="dropdown">
+    <button class="dropbtn">Assets</button>
+    <div class="dropdown-content">
+      <a href="assets/">Local Assets Folder</a>
+      <a href="https://github.com/usernamewkt12-star/Ai-Resume-/tree/main/Assets" target="_blank">
+        GitHub Assets Repo
+      </a>
+    </div>
+  </div>
+
+</nav>
